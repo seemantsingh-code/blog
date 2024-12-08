@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introduction on Seemant Singh</title>
     <link>http://localhost:1313/tags/introduction/</link>
     <description>Recent content in Introduction on Seemant Singh</description>
-    <generator>Hugo -- 0.139.3</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Dec 2024 12:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
@@ -13,11 +13,7 @@
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Tue, 03 Dec 2024 12:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;welcome-to-my-little-corner-of-the-internet-&#34;&gt;Welcome to My Little Corner of the Internet! 🎉&lt;/h1&gt;
-&lt;p&gt;Hi there! 👋 I&amp;rsquo;m a passionate explorer of all things that excite the mind and soul. This blog is where I’ll share my adventures, thoughts, and experiments across a variety of interests that keep me going (along with &lt;em&gt;lots of coffee&lt;/em&gt; ☕). Here&amp;rsquo;s a quick glimpse of what I love:&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;-gaming--game-development&#34;&gt;&lt;strong&gt;🎮 Gaming &amp;amp; Game Development&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Whether it’s sinking hours into the latest RPG or tinkering with game engines to bring wild ideas to life, gaming is more than just a hobby—it&amp;rsquo;s an art form that fuels my creativity.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;welcome-to-my-little-corner-of-the-internet-&#34;&gt;Welcome to My Little Corner of the Internet! 🎉&lt;/h1&gt;&#xA;&lt;p&gt;Hi there! 👋 I&amp;rsquo;m a passionate explorer of all things that excite the mind and soul. This blog is where I’ll share my adventures, thoughts, and experiments across a variety of interests that keep me going (along with &lt;em&gt;lots of coffee&lt;/em&gt; ☕). Here&amp;rsquo;s a quick glimpse of what I love:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-gaming--game-development&#34;&gt;&lt;strong&gt;🎮 Gaming &amp;amp; Game Development&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Whether it’s sinking hours into the latest RPG or tinkering with game engines to bring wild ideas to life, gaming is more than just a hobby—it&amp;rsquo;s an art form that fuels my creativity.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
