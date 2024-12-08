@@ -8,4 +8,6 @@ draft: true
 
 # Reference
 
-[reading source 1](https://www.sdxcentral.com/security/quantum/definitions/what-is-quantum-computing-its-architecture-advantages-and-disadvantages/)
+[reading source 1]
+
+[def]: https://www.sdxcentral.com/security/quantum/definitions/what-is-quantum-computing-its-architecture-advantages-and-disadvantages/
